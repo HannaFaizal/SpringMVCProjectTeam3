@@ -6,4 +6,5 @@ public interface EmployeeInterface {
          public void hello();
          public void rishny1();
          
+         public void SearchByEmployee();
 }

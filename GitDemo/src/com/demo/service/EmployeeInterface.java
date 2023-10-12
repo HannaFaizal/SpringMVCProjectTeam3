@@ -7,4 +7,8 @@ public interface EmployeeInterface {
 	public void hello();
 
 	public void create();
+	
+	public void addByemployee();
+	public void Mymethoddontsteal();
+	
 }

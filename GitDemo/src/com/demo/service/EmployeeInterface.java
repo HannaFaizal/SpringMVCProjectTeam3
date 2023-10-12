@@ -5,4 +5,6 @@ public interface EmployeeInterface {
 	public void search();
 	
 	public void hello();
+
+	public void create();
 }
